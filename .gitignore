@@ -20,3 +20,6 @@ data/*.csv
 # Model files (these can be large)
 models/*.joblib
 models/*.pkl
+
+# Keep preprocessing pipeline (small and important)
+!models/preprocessing_pipeline.pkl
