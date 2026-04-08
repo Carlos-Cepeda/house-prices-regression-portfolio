@@ -10,6 +10,8 @@ This project demonstrates an end-to-end machine learning workflow, from data exp
 
 Using the Ames Housing dataset, multiple regression models were developed and optimized to predict residential property prices. The final selected model was XGBoost, achieving strong predictive performance.
 
+The superior performance of XGBoost highlights the importance of capturing nonlinear relationships and feature interactions in housing data.
+
 ---
 
 ## 🏆 Key Results
